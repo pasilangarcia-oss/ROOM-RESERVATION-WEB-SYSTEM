@@ -10,6 +10,6 @@ function require_login(): void{
 }
 
 
-function e($v): string { return htmlspecialchars((string) $v, ENT_QUOTES, 'UTF-8');}
+function e($v): string { return htmlspecialchars((string) $v, ENT_QUOTES, 'UTF-8');
 ?>
 
