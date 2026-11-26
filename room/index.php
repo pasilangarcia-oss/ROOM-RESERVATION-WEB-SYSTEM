@@ -1,4 +1,4 @@
 <?php
 header('Location: views/index.php');
 exit();
-?> igit
+?> igit hi ben
